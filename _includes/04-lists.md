@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+# Here is a list of my favorite things 
+- Learn new programming techniques
+- Open source 
+- Writing/Reading
+- Board Games
+- Photography
+- Video Games
+- Sports and Exercise
+- Time management
